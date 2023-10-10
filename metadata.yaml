@@ -1,11 +1,16 @@
 _repo: Repton-and-its-neighbourhood-b-a-descriptive-guide-of-the-arch0xe6ology-c-of-the-district_71701
 _version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 71701-h/images/cover.jpg
 creator:
   author:
     agent_name: Hipkins, Frederick Charles
     gutenberg_agent_id: '56339'
     url: http://www.gutenberg.org/2009/agents/56339
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/71701#Repton-and-its-neighbourhood-b-a-descriptive-guide-of-the-arch0xe6ology-c-of-the-district
 gutenberg_issued: '2023-09-21'
 identifiers:
   gutenberg: '71701'
